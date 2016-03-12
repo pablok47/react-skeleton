@@ -1,0 +1,19 @@
+{
+  "name": "react-skeleton",
+  "version": "1.0.0",
+  "description": "skeleton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablok47/react-skeleton.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablok47/react-skeleton/issues"
+  },
+  "homepage": "https://github.com/pablok47/react-skeleton#readme"
+}
